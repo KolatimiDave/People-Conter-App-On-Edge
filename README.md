@@ -34,7 +34,7 @@ The DNN model used in this application is an Intel® optimized model that is par
 
 *   [Ubuntu 16.04 LTS](http://releases.ubuntu.com/16.04/)
     
-    **Note:** We recommend using a 4.14+ Linux kernel with this software. Run the following command to determine your kernel version:
+    **Note:** I recommend using a 4.14+ Linux kernel with this software. Run the following command to determine your kernel version:
     
      ```
      uname -a
